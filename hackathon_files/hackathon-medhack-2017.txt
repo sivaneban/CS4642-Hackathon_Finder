@@ -1,0 +1,1 @@
+{"title": "MedHack \u2013 2017", "event_date": "09/23/2017", "registration_site": "https://mic.lk/medhack/", "event_venue": "Mobitel Innovation Center Trace City, Colombo 10", "hackathon_website": "https://mic.lk/medhack/", "social_link": "http://www.facebook.com/pg/mobitelinnovationcentre/"}

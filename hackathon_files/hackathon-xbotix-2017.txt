@@ -1,0 +1,1 @@
+{"title": "XbotiX 2017", "event_date": "09/20/2017", "registration_site": "http://eie.eng.ruh.ac.lk/XbotiX/", "event_venue": "University of Ruhuna", "hackathon_website": "http://eie.eng.ruh.ac.lk/XbotiX/", "social_link": "https://www.facebook.com/XbotiX/"}

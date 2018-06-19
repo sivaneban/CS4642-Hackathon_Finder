@@ -1,0 +1,1 @@
+{"title": "IEEEXtreme 11.0", "event_date": "10/14/2017", "registration_site": "https://www.facebook.com/IEEEXtreme/", "event_venue": "Worlwide", "hackathon_website": "http://www.ieee.org/membership_services/membership/students/competitions/xtreme/index.html", "social_link": "https://www.facebook.com/IEEEXtreme/"}

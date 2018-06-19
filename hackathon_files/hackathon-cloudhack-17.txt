@@ -1,0 +1,1 @@
+{"title": "CloudHack \u201917", "event_date": "08/12/2017", "registration_site": "https://cloudhack.ml/apply", "event_venue": "University of Colombo", "hackathon_website": "https://cloudhack.ml", "social_link": "https://www.facebook.com/events/1905725266362785"}

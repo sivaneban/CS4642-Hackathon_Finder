@@ -1,0 +1,1 @@
+{"title": "Venture Frontier Lanka Startup Boot Camps \u2013 Jaffna", "event_date": "05/05/2018", "registration_site": "http://www.venturefrontierbootcamps.splashthat.com", "event_venue": "Sri Lanka", "hackathon_website": "http://www.venturefrontierbootcamps.splashthat.com", "social_link": "https://www.facebook.com/events/1120419618099568/"}

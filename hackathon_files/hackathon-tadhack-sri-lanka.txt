@@ -1,0 +1,1 @@
+{"title": "TADHack Sri Lanka", "event_date": "10/15/2016", "registration_site": "http://tadhack.com/2016/global/sri-lanka/", "event_venue": "Dialog Axiata PLC", "hackathon_website": "http://tadhack.com/2016/global/sri-lanka/", "social_link": "https://www.facebook.com/events/1075286812561406/"}

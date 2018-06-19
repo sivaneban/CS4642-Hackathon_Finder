@@ -1,0 +1,1 @@
+{"title": "YouthHack Sri Lanka \u2013 2017", "event_date": "08/26/2017", "registration_site": "http://bit.ly/yhslstartupchallenge", "event_venue": "MAS Innovation Centre", "hackathon_website": "http://www.srilanka.youthhack.net", "social_link": "http://www.facebook.com/pg/YouthHackSL"}

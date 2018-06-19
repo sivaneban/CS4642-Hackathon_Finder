@@ -1,0 +1,1 @@
+{"title": "CodeZilla 2018", "event_date": "05/10/2018", "registration_site": "https://mozillauwu.github.io/codezilla/", "event_venue": "Uva Wellassa University", "hackathon_website": "https://mozillauwu.github.io/codezilla/", "social_link": "https://www.facebook.com/events/371538039998286"}

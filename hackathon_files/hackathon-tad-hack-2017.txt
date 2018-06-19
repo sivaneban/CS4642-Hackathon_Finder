@@ -1,0 +1,1 @@
+{"title": "TAD Hack \u2013 2017", "event_date": "09/30/2017", "registration_site": "https://tadhack.com/2017/global/register-colombo/", "event_venue": "Dialog Head Office, Colombo", "hackathon_website": "https://devspace.hsenidmobile.com/tadhack/", "social_link": "https://www.facebook.com/events/1467072100040642/"}

@@ -1,0 +1,1 @@
+{"title": "Startup Weekend Sri Lanka", "event_date": "05/19/2017", "registration_site": "https://asia.explara.com/e/swnegombo", "event_venue": "Paradise Beach Hotel 289 Lewis Place Negombo, Sri Lanka", "hackathon_website": "http://www.up.co/communities/sri-lanka/negombo-sri-lanka/startup-weekend/10925", "social_link": "https://www.facebook.com/pg/StartupWeekendLK"}
